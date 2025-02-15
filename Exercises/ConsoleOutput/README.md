@@ -1,4 +1,5 @@
 🖥️ Java Output Methods
+
 🔹 System.out.print
 Prints text to the screen without a new line.
 (Equivalent to console.log in JavaScript but without an automatic line break.)
