@@ -21,8 +21,8 @@ Formats and prints multiple elements using a single command.
 To format numbers based on regional settings (e.g., decimal points vs. commas).
 
 Example:
-
-import java.util.Locale;    
+```java
+import java.util.Locale;
 
 public class Main {
     public static void main(String[] args) {
