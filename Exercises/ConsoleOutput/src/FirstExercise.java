@@ -1,4 +1,4 @@
-package programming_course;
+package console_output;
 
 import java.util.Locale;
 
