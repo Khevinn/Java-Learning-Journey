@@ -11,17 +11,18 @@ Prints text followed by a new line.
 Formats and prints multiple elements using a single command.
 
 📌 Format Specifiers:
-%f → Floating-point number
-%d → Integer
-%s → String (text)
-%n → New line
-%c → Single character (must be in single quotes)
+- %f → Floating-point number
+- %d → Integer
+- %s → String (text)
+- %n → New line
+- %c → Single character (must be in single quotes)
+  
 🌍 Using Locale
 To format numbers based on regional settings (e.g., decimal points vs. commas).
 
 Example:
 
-import java.util.Locale;
+import java.util.Locale;    
 
 public class Main {
     public static void main(String[] args) {
